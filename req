@@ -1,0 +1,20 @@
+POST /Infinity/COIGenerator HTTP/1.1
+Host: https://otc1.nivabupa.com
+Cookie: sess_map=rfbrazsvayeybyrvfzxvqtavatxvsqysbfxqadcbbbqfuwfffwscecfeuvqcvefxfxtvfwfeeefczsctwdwaebyccesvrcyubyzwudccvybqfrqbeedqqeyubxradturqyucyafbccytazsuqvwtqbtrdwveycxwtaubbzdeyestfrsq; __RequestVerificationToken_L0luZmluaXR5L0NPSUdlbmVyYXRvcg2=3GOX1dCwIkXsxtuB2CNDsfdP9RNaDdxSOK8rdDugmOT0KTiE3sxxFsDJYuQq_YXD8NwG6Bdjod4SXW_ou-ahYWwtSz4Xw39rKi8RpEraTUI1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 171
+Origin: https://otc1.nivabupa.com
+Referer: https://otc1.nivabupa.com/Infinity/COIGenerator
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Priority: u=0, i
+Te: trailers
+Connection: keep-alive
+
+__RequestVerificationToken=yf6_mjSWNqHzWwp2DKfh8OPDqYuZj5jJZdZYhk54dSO8fyt8eRGzbc8KOmlGvORBJPVcilh1xYgTYTSte6PRrhjDh7_ZndW7_3OSO9F5iUg1&UserName=P115061&Password=pass@123
